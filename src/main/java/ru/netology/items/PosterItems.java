@@ -4,9 +4,7 @@ public class PosterItems {
     private String filmName;
     private String genre;
 
-    public PosterItems(){
 
-    }
     public PosterItems(int id, String filmName, String genre){
         this.id = id;
         this.filmName = filmName;
